@@ -1,14 +1,14 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(16, 8, 104);
+    background-color: #121358;
     font-family: arial, sans-serif;
 }
 nav {
     display: grid;
     grid-template-columns: 1fr auto;
     align-items: center;
-    background-color: #000063;
+    background-color: #232F72;
     padding: 10px;
     position:sticky;
     z-index: 100;
@@ -75,7 +75,7 @@ nav {
 .about {
     display: flex;
     align-items: center;
-    background-color: #003f77;
+    background-color: #2F578A;
     padding: 20px;
     box-sizing: border-box;
     color: #ffffff;
@@ -86,7 +86,7 @@ nav {
     display: flex;
     align-items: center;
     text-decoration: none;;
-    background-color: #004f95;
+    background-color: #36ADA3;
     padding: 20px;
     box-sizing: border-box;
     color: #ffffff;
